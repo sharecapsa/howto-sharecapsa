@@ -37,5 +37,5 @@ Sharecapsa offering Freelance Client and Freelnace Developer options inside Free
 If your project or company looking for short term developers to complete your tasks? then this option is for you.
 Please check Freelance Client Page for more details on how to get start as client and add your task
 ## Freelance Developer
-Are you a freelancer? this this option is for you.
+Are you a freelancer? then this option is for you.
 Please check Freelance Developer page for more details on how to get start a developer and start requesting tasks
